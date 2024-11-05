@@ -9,3 +9,5 @@ Data Tables
 ![Screenshot 2024-11-05 194450](https://github.com/user-attachments/assets/6187bcca-6dae-41d3-92ba-6112b246ca1c)
 Form
 ![Screenshot 2024-11-05 194501](https://github.com/user-attachments/assets/cfcf8e9b-ee72-41ab-b474-33083be32c38)
+Error
+![Screenshot 2024-11-05 195234](https://github.com/user-attachments/assets/a27b6bcd-92f9-4489-8eaa-15cc2aed17f6)
